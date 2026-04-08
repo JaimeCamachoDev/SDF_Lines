@@ -1,33 +1,23 @@
 <header>
 
-![Banner](https://github.com/user-attachments/assets/5b933a56-0ece-452a-99c0-1a641485a6b9)
-
-# **SDF_Lines**
-
-_**SDF System in Unity 6 URP**_
+![414296166-6c1e9c35-e059-4db6-9531-4f21a520c16e](https://github.com/user-attachments/assets/dfc45635-776d-4a13-baa0-62334f7b9a8b)
 
 
+<!--
+  <<< Author notes: Course header >>>
+  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
+  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
+  Add your open source license, GitHub uses MIT license.
+-->
+
+# VFX_SDF_Lines
+
+_VFX Graph in Unity 6 URP,SDF Lines_
+_from: https://www.youtube.com/watch?v=FBP9k6W48vM&list=PLjLqixML5B8MlwxMsTRVhjlxkMIdAuYgg_
+https://github.com/keijiro/SdfVfxSamples
 </header>
-   
-<footer>
-   
-## Después de crear el repositorio desde la plantilla, asegúrate de revisar lo siguiente:
 
-### 📸 Social Preview
-- [ ] Sube una imagen `preview.png` personalizada en `Settings → Social Preview`.
-
-### ⚙️ Repository Features
-Desactiva funciones que no necesitas en `Settings → Features`:
-
-- [ ] Desactivar **Projects**
-- [ ] Desactivar **Wiki**
-- [ ] Desactivar **Packages**
-- [ ] Desactivar **Environments** (Deployments)
-- [ ] Confirmar que **Releases** sigue activado ✅
-
-### 🎨 Personalización visual
-- [ ] Cambiar imagen del banner de portada.
-- [ ] Dejar Topics necesarios.
+<img width="1241" height="1189" alt="402498136-08383be7-79ed-4b96-9fac-39f5d2864bcb" src="https://github.com/user-attachments/assets/c85482eb-634e-4c59-af47-5d0c855b53f6" />
 
 
-</footer>
+
