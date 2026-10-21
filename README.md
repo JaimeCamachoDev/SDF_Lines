@@ -26,10 +26,14 @@ https://github.com/keijiro/SdfVfxSamples
 
 ## Contenido
 
-* **VFX Graph:** `SDF_Kings-Valley_Holo-Spawn`, `SDF_Lines`, `SDF_Lines_Tomb`, `SDF_Lines_V1 1`, `SDF_Trails`
-* **Shader Graph:** `HoloTransparent`
-* **Prefabs:** `Kings-Valley-Holograms`, `SDF_Lines`, `SDF_Lines_Diosa`, `SDF_Lines_JOI`, `SDF_Lines_Origin`, `SDF_Lines_Transition`
-* **Escenas:** `Assets/3-Scenes/Main.unity`
+Efectos en `Assets/2-Art/2-VFX/`:
+
+| Efecto | VFX | Shader Graph | Shaders | Scripts | Prefabs | Materiales |
+|---|---|---|---|---|---|---|
+| **Hologram** | — | 1 | — | — | — | — |
+| **SDF_Lines** | 5 | — | — | — | 6 | — |
+
+**Escenas de demostración:** `Assets/3-Scenes/Main.unity`
 
 ## Uso
 
